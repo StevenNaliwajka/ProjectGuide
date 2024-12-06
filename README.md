@@ -1,5 +1,6 @@
 # ProjectGuide
-Centralized documentation hub for insights, methodologies, and overviews of my professional and personal projects.
+A centralized hub for documentation, indexing insights, methodologies and overviews of my professional and personal projects. 
+As well as formal papers or presentations related to these topics.
 
 Also Included is any formal papers/presentations on the topics.
 
