@@ -1,15 +1,25 @@
 # ProjectGuide
-Centralized documentation hub for insights, methodologies, and overviews of my formal and personal projects.
+Centralized documentation hub for insights, methodologies, and overviews of my professional and personal projects.
 
-Below I have hyper linked
+Also Included is any formal papers/presentations on the topics.
+
+Use the hyperlinks below for easy navigation.
+
+Ordered by how cool they are (In my opinion...).
 
 ## Professional Projects
-- Senior Project
-- 
+- [TVWSDataScraper](https://github.com/StevenNaliwajka/TVWSDataScraper)
+  - Selenium based web scraper for undergrad directed study.
+- [ProcedualMusic](https://github.com/StevenNaliwajka/ProceduralMusic)
+  - The end goal is procedural music, has a while to go before it's there though. Begun for a signals class in undergrad.
 
 ## Personal Projects
-- FabFormat
-  - A child of my Senior Project
+- [FabFormat](https://github.com/StevenNaliwajka/FabFormat)
+  - Universal file converter designed for 3D printing PCBs.
+- [TF2SentryEE](https://github.com/StevenNaliwajka/TF2SentryEE)
+  - Automated airsoft turret with image detection and targeting.
 
 ## Formal/Educational Work
-- Senior Project: "Affordable 3D Printing of PCBs for Prototyping".
+- [Senior Project](https://github.com/StevenNaliwajka/ProjectGuide/blob/main/SeniorProject-3DPCBS/README.md): 
+"Affordable 3D Printing of PCBs for Prototyping".
+  - Proving that 3D printed PCBs are plausible. Paper + Presentation
