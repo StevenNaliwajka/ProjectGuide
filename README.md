@@ -21,6 +21,6 @@ Ordered by how cool they are (In my opinion...).
   - Automated airsoft turret with image detection and targeting.
 
 ## Formal/Educational Work
-- [Senior Project](https://github.com/StevenNaliwajka/ProjectGuide/blob/main/SeniorProject-3DPCBS/README.md): 
+- [Senior Project](https://github.com/StevenNaliwajka/ProjectGuide/blob/main/FormalWork/SeniorProject-3DPCBS/README.md): 
 "Affordable 3D Printing of PCBs for Prototyping".
   - Proving that 3D printed PCBs are plausible. Paper + Presentation
