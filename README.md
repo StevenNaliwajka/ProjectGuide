@@ -19,7 +19,7 @@ Ordered by how cool they are (In my opinion...).
   - Universal file converter designed for 3D printing PCBs.
 - [TF2SentryEE](https://github.com/StevenNaliwajka/TF2SentryEE)
   - Automated airsoft turret with image detection and targeting.
-- Hydroponics
+- [Hydroponics](https://github.com/StevenNaliwajka/ProjectGuide/tree/main/PersonalProjects/Hydroponics)
   - Vertical growing of plants suspended in water. Automated chem dosing and monitoring.
 
 ## Formal/Educational Work
