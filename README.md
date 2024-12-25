@@ -21,8 +21,15 @@ Ordered by how cool they are (In my opinion...).
   - Vertical growing of plants suspended in water. Automated chem dosing and monitoring.
 - [ProcedualMusic](https://github.com/StevenNaliwajka/ProceduralMusic)
   - The end goal is procedural music, has a while to go before it's there though. Begun for a signals class in undergrad.
-- 3D Printing Research
+- 3DPrinting
   - Documentation on workflow, best practices and the quest for accurate parts.
+- CustomRouterWithPFSense
+  - A high level overview of my custom PFSense box.
+- ProxmoxOverview 
+  - My use case for virtualization and containerization with proxmox in my server stacks.
+- Printect
+  - Placeholder. On hush mode.
+
 
 ## Formal/Educational Work
 - [Senior Project](https://github.com/StevenNaliwajka/ProjectGuide/blob/main/FormalWork/SeniorProject-3DPCBS/README.md): 
