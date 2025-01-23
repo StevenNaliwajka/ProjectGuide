@@ -1,0 +1,7 @@
+The paper, "Service Duration Maximization for Continuous Coverage in UAV-Assisted Communication System," explores maximizing the service time of a rotary-wing UAV acting as an aerial base station (ABS) for mobile ground nodes. The primary goal is to optimize the UAV’s 3D trajectory to ensure continuous network coverage for mobile nodes while minimizing its energy consumption, given the UAV’s limited onboard energy.
+
+The study formulates the problem as a non-convex optimization, aiming to maximize the number of service time slots. This is equivalent to minimizing energy consumption per slot while maintaining coverage constraints, such as ensuring the outage probability remains below a specific threshold. The authors employ a pseudoconvex framework and propose an alternating optimization approach to solve the problem efficiently. The iterative algorithm adjusts the UAV’s trajectory by separately optimizing horizontal and vertical coordinates to achieve a sub-optimal solution.
+
+Simulations demonstrate the approach improves service duration by 25% compared to benchmark schemes, such as centroid-based and strip-based trajectories, while maintaining acceptable outage probabilities. The framework’s applications include emergency response, disaster recovery, and dynamic scenarios requiring extended UAV operation.
+
+This methodology can complement TVWS by dynamically leveraging unused spectrum to optimize UAV-ground communication, enhancing connectivity in rural or emergency scenarios.

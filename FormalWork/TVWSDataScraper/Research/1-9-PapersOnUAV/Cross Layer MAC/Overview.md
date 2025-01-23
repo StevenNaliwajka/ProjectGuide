@@ -1,0 +1,7 @@
+The paper, "Cross-Layer MAC Protocol for a Peer Conscious Opportunistic Network Coded Cooperation System," introduces a Peer-Conscious Opportunistic Network Coded Cooperation (PC-O-NCC) system. This system leverages multi-user diversity (MUD) in network-coded cooperative networks to improve outage performance and system efficiency. Unlike conventional Time Division Multiple Access (TDMA) approaches, the proposed method prioritizes nodes with better channel conditions, enabling more reliable data transmission.
+
+Key innovations include a timer-based Medium Access Control (MAC) protocol designed to minimize collisions and reduce energy consumption for battery-operated devices. The MAC protocol adapts to network load and channel conditions, generating timer values dynamically. The system also introduces a Session Initiation Packet (SIP) to initiate communication sessions and energy-efficient sleeping mechanisms for nodes not actively transmitting.
+
+Simulations demonstrate that the PC-O-NCC system significantly enhances outage performance compared to other MAC protocols while keeping latency low. Its applications are particularly relevant in scenarios requiring robust and efficient communication, such as disaster management, drone-assisted networks, and intelligent transportation systems.
+
+This protocol could integrate well with TVWS by leveraging its opportunistic and dynamic spectrum-sharing capabilities. Adapting the PC-O-NCC system to TVWS can help improve connectivity in rural and remote areas while minimizing interference with other licensed users.

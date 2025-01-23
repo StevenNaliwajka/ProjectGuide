@@ -1,0 +1,7 @@
+The paper, "3D-Trajectory Design for Outage Minimization in UAV-Assisted 5G Communication System," focuses on optimizing the 3D trajectory of a UAV acting as a base station in a 5G network. The goal is to minimize the average outage probability for ground users distributed in a circular field while the UAV travels from a starting location to a designated endpoint.
+
+The proposed solution tackles the non-convex optimization problem by dividing it into two stages. First, it identifies the globally optimal location in 3D space for minimal outage probability using a conditionally convex approach. Second, it formulates a sub-optimal trajectory, considering practical constraints like UAV velocity, flight height, and path smoothness. The method ensures a balance between efficient communication and feasible flight planning.
+
+Simulation results show a 24% reduction in outage probability compared to traditional straight-line flight methods, with further improvements at higher UAV speeds. Key factors influencing performance include flight time, altitude, and user distribution. The proposed approach is particularly beneficial for scenarios requiring temporary network support, such as crowded events or disaster response.
+
+This work provides a foundation for integrating UAVs into wireless communication systems, ensuring enhanced connectivity and reliability by dynamically optimizing UAV trajectories.
