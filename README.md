@@ -29,6 +29,8 @@ Ordered by how cool they are (In my opinion...).
   - My use case for virtualization and containerization with proxmox in my server stacks.
 - [Printect](https://github.com/StevenNaliwajka/ProjectGuide/tree/main/PersonalProjects/Printect)
   - Placeholder. On hush mode.
+- [GIFtoASCI-GIF](https://github.com/StevenNaliwajka/GIFtoASCI-GIF)  
+  - Converts Gifs to Asci Gifs.
 
 ## Hackathons
 - [2ndMar2025](https://github.com/MaiikiruRepos/Hackathon2025-SocialGood) - "EcoPulse" - KSU Hackathon for Social Good
