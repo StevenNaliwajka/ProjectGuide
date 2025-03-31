@@ -11,8 +11,8 @@ Ordered by how cool they are (In my opinion...).
 ## Professional Projects
 - [FabFormat](https://github.com/StevenNaliwajka/FabFormat)
   - Universal file converter designed for 3D printing PCBs.
-- [TVWSDataScraper](https://github.com/StevenNaliwajka/TVWSDataScraper)
-  - Selenium based web scraper for undergrad directed study.
+- [KSUFieldStation](https://github.com/StevenNaliwajka/KSUFieldStation)
+  - Central Hub for all KSU work. Radios, Datalogging, Lots of good stuff.
 
 ## Personal Projects
 - [TF2SentryEE](https://github.com/StevenNaliwajka/TF2SentryEE)
@@ -30,6 +30,10 @@ Ordered by how cool they are (In my opinion...).
 - [Printect](https://github.com/StevenNaliwajka/ProjectGuide/tree/main/PersonalProjects/Printect)
   - Placeholder. On hush mode.
 
+## Hackathons
+- [2ndMar2025](https://github.com/MaiikiruRepos/Hackathon2025-SocialGood) - "EcoPulse" - KSU Hackathon for Social Good
+- [Mar2025](https://github.com/StevenNaliwajka/KSU-Hackathon-Mar2024) - "BillCure" - Placed 2nd - KSU Apps For Wellbeing
+- [Spring2025](https://github.com/StevenNaliwajka/KSUHackathonSpring2025) - "Fan Engagement" - Placed 1st - KSU Sports Innovation Hackathon
 
 ## Formal/Educational Work
 - [Senior Project](https://github.com/StevenNaliwajka/ProjectGuide/blob/main/FormalWork/SeniorProject-3DPCBS/README.md): 
